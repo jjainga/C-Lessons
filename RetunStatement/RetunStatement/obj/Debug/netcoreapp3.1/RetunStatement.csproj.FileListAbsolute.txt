@@ -1,0 +1,12 @@
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\RetunStatement\RetunStatement\bin\Debug\netcoreapp3.1\RetunStatement.exe
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\RetunStatement\RetunStatement\bin\Debug\netcoreapp3.1\RetunStatement.deps.json
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\RetunStatement\RetunStatement\bin\Debug\netcoreapp3.1\RetunStatement.runtimeconfig.json
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\RetunStatement\RetunStatement\bin\Debug\netcoreapp3.1\RetunStatement.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\RetunStatement\RetunStatement\bin\Debug\netcoreapp3.1\RetunStatement.dll
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\RetunStatement\RetunStatement\bin\Debug\netcoreapp3.1\RetunStatement.pdb
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\RetunStatement\RetunStatement\obj\Debug\netcoreapp3.1\RetunStatement.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\RetunStatement\RetunStatement\obj\Debug\netcoreapp3.1\RetunStatement.AssemblyInfo.cs
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\RetunStatement\RetunStatement\obj\Debug\netcoreapp3.1\RetunStatement.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\RetunStatement\RetunStatement\obj\Debug\netcoreapp3.1\RetunStatement.dll
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\RetunStatement\RetunStatement\obj\Debug\netcoreapp3.1\RetunStatement.pdb
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\RetunStatement\RetunStatement\obj\Debug\netcoreapp3.1\RetunStatement.genruntimeconfig.cache
