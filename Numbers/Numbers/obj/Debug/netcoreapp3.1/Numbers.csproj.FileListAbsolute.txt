@@ -1,0 +1,12 @@
+C:\Users\joshu\source\repos\Giraffe\Numbers\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\Giraffe\Numbers\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+C:\Users\joshu\source\repos\Giraffe\Numbers\Numbers\obj\Debug\netcoreapp3.1\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\Giraffe\Numbers\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+C:\Users\joshu\source\repos\Giraffe\Numbers\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+C:\Users\joshu\source\repos\Giraffe\Numbers\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+C:\Users\joshu\source\repos\Giraffe\Numbers\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\Giraffe\Numbers\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\joshu\source\repos\Giraffe\Numbers\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\joshu\source\repos\Giraffe\Numbers\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\joshu\source\repos\Giraffe\Numbers\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\joshu\source\repos\Giraffe\Numbers\Numbers\obj\Debug\netcoreapp3.1\Numbers.genruntimeconfig.cache
