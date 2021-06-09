@@ -10,3 +10,4 @@ C:\Users\joshu\source\repos\Giraffe\C-Lessons\IfStatements\IfStatements\obj\Debu
 C:\Users\joshu\source\repos\Giraffe\C-Lessons\IfStatements\IfStatements\obj\Debug\netcoreapp3.1\IfStatements.dll
 C:\Users\joshu\source\repos\Giraffe\C-Lessons\IfStatements\IfStatements\obj\Debug\netcoreapp3.1\IfStatements.pdb
 C:\Users\joshu\source\repos\Giraffe\C-Lessons\IfStatements\IfStatements\obj\Debug\netcoreapp3.1\IfStatements.genruntimeconfig.cache
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\IfStatements\IfStatements\obj\Debug\netcoreapp3.1\IfStatements.csproj.AssemblyReference.cache

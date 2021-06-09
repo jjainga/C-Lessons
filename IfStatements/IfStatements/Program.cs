@@ -10,16 +10,21 @@ namespace IfStatements
             bool isMale;
             bool isTall;
 
-            isMale = true;
+            isMale = false;
             isTall = true;
 
             // || means Or and && means and, these can help make complex conditions for ifStatements
-            
-            if(isMale && isTall) 
-            {
+            // ! negation operator
+
+            if (isMale && isTall) {
                 Console.WriteLine("You are Male and you are tall");
-            } else
-            {
+            } else if (isMale && !isTall)  {
+                Console.Write("You are a short male");
+            }
+            else if (!isMale && isTall) {
+                Console.WriteLine("You are not male and you are tall");
+            }
+            else {
                 Console.WriteLine("You are not Male or not tall or both");
             }
             
