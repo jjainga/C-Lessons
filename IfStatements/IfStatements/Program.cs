@@ -12,6 +12,8 @@ namespace IfStatements
 
             isMale = true;
             isTall = true;
+
+            // || means Or and && means and, these can help make complex conditions for ifStatements
             
             if(isMale && isTall) 
             {
