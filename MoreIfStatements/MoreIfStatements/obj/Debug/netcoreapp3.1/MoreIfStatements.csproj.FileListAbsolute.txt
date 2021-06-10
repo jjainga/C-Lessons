@@ -1,0 +1,13 @@
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\MoreIfStatements\MoreIfStatements\obj\Debug\netcoreapp3.1\MoreIfStatements.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\MoreIfStatements\MoreIfStatements\obj\Debug\netcoreapp3.1\MoreIfStatements.AssemblyInfo.cs
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\MoreIfStatements\MoreIfStatements\obj\Debug\netcoreapp3.1\MoreIfStatements.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\MoreIfStatements\MoreIfStatements\bin\Debug\netcoreapp3.1\MoreIfStatements.exe
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\MoreIfStatements\MoreIfStatements\bin\Debug\netcoreapp3.1\MoreIfStatements.deps.json
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\MoreIfStatements\MoreIfStatements\bin\Debug\netcoreapp3.1\MoreIfStatements.runtimeconfig.json
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\MoreIfStatements\MoreIfStatements\bin\Debug\netcoreapp3.1\MoreIfStatements.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\MoreIfStatements\MoreIfStatements\bin\Debug\netcoreapp3.1\MoreIfStatements.dll
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\MoreIfStatements\MoreIfStatements\bin\Debug\netcoreapp3.1\MoreIfStatements.pdb
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\MoreIfStatements\MoreIfStatements\obj\Debug\netcoreapp3.1\MoreIfStatements.dll
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\MoreIfStatements\MoreIfStatements\obj\Debug\netcoreapp3.1\MoreIfStatements.pdb
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\MoreIfStatements\MoreIfStatements\obj\Debug\netcoreapp3.1\MoreIfStatements.genruntimeconfig.cache
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\MoreIfStatements\MoreIfStatements\obj\Debug\netcoreapp3.1\MoreIfStatements.csproj.AssemblyReference.cache
