@@ -1,0 +1,12 @@
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\2dArrays\2dArrays\obj\Debug\netcoreapp3.1\2dArrays.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\2dArrays\2dArrays\obj\Debug\netcoreapp3.1\2dArrays.AssemblyInfo.cs
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\2dArrays\2dArrays\obj\Debug\netcoreapp3.1\2dArrays.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\2dArrays\2dArrays\bin\Debug\netcoreapp3.1\2dArrays.exe
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\2dArrays\2dArrays\bin\Debug\netcoreapp3.1\2dArrays.deps.json
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\2dArrays\2dArrays\bin\Debug\netcoreapp3.1\2dArrays.runtimeconfig.json
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\2dArrays\2dArrays\bin\Debug\netcoreapp3.1\2dArrays.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\2dArrays\2dArrays\bin\Debug\netcoreapp3.1\2dArrays.dll
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\2dArrays\2dArrays\bin\Debug\netcoreapp3.1\2dArrays.pdb
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\2dArrays\2dArrays\obj\Debug\netcoreapp3.1\2dArrays.dll
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\2dArrays\2dArrays\obj\Debug\netcoreapp3.1\2dArrays.pdb
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\2dArrays\2dArrays\obj\Debug\netcoreapp3.1\2dArrays.genruntimeconfig.cache
