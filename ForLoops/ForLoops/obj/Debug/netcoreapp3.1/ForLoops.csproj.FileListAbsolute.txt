@@ -1,0 +1,13 @@
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.exe
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.deps.json
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.runtimeconfig.json
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.dll
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.pdb
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.AssemblyInfo.cs
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.dll
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.pdb
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.genruntimeconfig.cache
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.csproj.AssemblyReference.cache
