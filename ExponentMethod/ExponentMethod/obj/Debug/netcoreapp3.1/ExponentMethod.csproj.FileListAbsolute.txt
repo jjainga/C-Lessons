@@ -1,0 +1,12 @@
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ExponentMethod\ExponentMethod\bin\Debug\netcoreapp3.1\ExponentMethod.exe
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ExponentMethod\ExponentMethod\bin\Debug\netcoreapp3.1\ExponentMethod.deps.json
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ExponentMethod\ExponentMethod\bin\Debug\netcoreapp3.1\ExponentMethod.runtimeconfig.json
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ExponentMethod\ExponentMethod\bin\Debug\netcoreapp3.1\ExponentMethod.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ExponentMethod\ExponentMethod\bin\Debug\netcoreapp3.1\ExponentMethod.dll
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ExponentMethod\ExponentMethod\bin\Debug\netcoreapp3.1\ExponentMethod.pdb
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ExponentMethod\ExponentMethod\obj\Debug\netcoreapp3.1\ExponentMethod.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ExponentMethod\ExponentMethod\obj\Debug\netcoreapp3.1\ExponentMethod.AssemblyInfo.cs
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ExponentMethod\ExponentMethod\obj\Debug\netcoreapp3.1\ExponentMethod.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ExponentMethod\ExponentMethod\obj\Debug\netcoreapp3.1\ExponentMethod.dll
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ExponentMethod\ExponentMethod\obj\Debug\netcoreapp3.1\ExponentMethod.pdb
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ExponentMethod\ExponentMethod\obj\Debug\netcoreapp3.1\ExponentMethod.genruntimeconfig.cache
