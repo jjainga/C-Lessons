@@ -16,5 +16,14 @@ namespace ClassesAndObjects
         public string title;
         public string author;
         public int pages;
+
+        //this is a contructor, a method within a class that gets called when the object is being created
+        //This allows you to create the objects much faster 
+        public Book(string aTitle, string aAuthor, int aPages)
+        {
+            title = aTitle;
+            author = aAuthor;
+            pages = aPages;
+        }
     }
 }
