@@ -1,0 +1,12 @@
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ObjectMethods\ObjectMethods\bin\Debug\netcoreapp3.1\ObjectMethods.exe
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ObjectMethods\ObjectMethods\bin\Debug\netcoreapp3.1\ObjectMethods.deps.json
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ObjectMethods\ObjectMethods\bin\Debug\netcoreapp3.1\ObjectMethods.runtimeconfig.json
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ObjectMethods\ObjectMethods\bin\Debug\netcoreapp3.1\ObjectMethods.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ObjectMethods\ObjectMethods\bin\Debug\netcoreapp3.1\ObjectMethods.dll
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ObjectMethods\ObjectMethods\bin\Debug\netcoreapp3.1\ObjectMethods.pdb
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ObjectMethods\ObjectMethods\obj\Debug\netcoreapp3.1\ObjectMethods.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ObjectMethods\ObjectMethods\obj\Debug\netcoreapp3.1\ObjectMethods.AssemblyInfo.cs
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ObjectMethods\ObjectMethods\obj\Debug\netcoreapp3.1\ObjectMethods.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ObjectMethods\ObjectMethods\obj\Debug\netcoreapp3.1\ObjectMethods.dll
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ObjectMethods\ObjectMethods\obj\Debug\netcoreapp3.1\ObjectMethods.pdb
+C:\Users\joshu\source\repos\Giraffe\C-Lessons\ObjectMethods\ObjectMethods\obj\Debug\netcoreapp3.1\ObjectMethods.genruntimeconfig.cache
